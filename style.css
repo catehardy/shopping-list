@@ -1,0 +1,21 @@
+.completed {
+	text-decoration: line-through;
+	text-decoration-color: red;
+}
+
+.delete-button {
+	margin-left: 10px;
+	background: lightgray;
+	padding: 4px;
+}
+
+#enter {
+	margin-left: 3px;
+	background: lightgray;
+	padding: 4px;
+}
+
+li {
+	padding-bottom: 7px;
+	width: fit-content;
+}
