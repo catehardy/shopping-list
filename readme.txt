@@ -1,0 +1,1 @@
+I'm currently learning JS and CSS so this is a simple project where I can work on both sets of skills together.
